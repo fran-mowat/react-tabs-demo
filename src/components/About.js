@@ -1,10 +1,10 @@
 import React from 'react';
 
 const About = () => {
-    <div>
+    return (<div>
         <h2>About page</h2>
         <p>Learn more about us here!</p>
-    </div>
+    </div>)
 };
 
 export default About;
